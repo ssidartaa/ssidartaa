@@ -14,7 +14,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssidartaa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" margin="0 auto"><br>
   <img align="center" alt="Sid-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="Sid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sid-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
