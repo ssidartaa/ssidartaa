@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/yWeTz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ssidartaa&show_icons=true&theme=github-theme-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ssidartaa&show_icons=true&theme=github-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssidartaa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
