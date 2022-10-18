@@ -6,12 +6,14 @@
 - ⚡ Curious fact: I'm very calm, so calm that if something bad happened to me, I would probably just look and say "ah.. ok".
 - 📫 <strong>Contact me: </strong> ⬇️
 
+</div>
   <a href="https://www.linkedin.com/in/sidarta-kauã/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
   <a href="https://www.instagram.com/yssidartaa/" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
+</div>
 
 ##
 
