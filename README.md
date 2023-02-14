@@ -2,7 +2,7 @@
 
 - 🔭 I’m Full-stack Developer, and currently i'm working on my skills as a Back-end Developer and looking for a new job.
 - 🌱 I’m currently learning Python and Django.
-- 📫 How to reach me: odssy351@gmail.com or https://www.linkedin.com/in/sidarta-kauã/.
+- 📫 How to reach me: ssidartaaoli@gmail.com or https://www.linkedin.com/in/sidarta-kauã/.
 - ⚡ Curious fact: I'm very calm, so calm that if something bad happened to me, I would probably just look and say "ah.. ok".
 - 📫 <strong>Contact me: </strong> ⬇️
 
