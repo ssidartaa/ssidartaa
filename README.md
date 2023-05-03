@@ -1,7 +1,7 @@
 ### 👋 "Aoooba", my name is Sidarta Kauã and here you can find some information about me:
 
 - 🔭 I’m Full-stack Developer, and currently i'm learning Flask and looking for a new job as Front-end or Back-end developer.
-- 🌱 I’m currently learning Python and Django.
+- 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: ssidartaaoli@gmail.com or https://www.linkedin.com/in/sidarta-kauã/.
 - ⚡ Curious fact: I'm very calm, so calm that if something bad happened to me, I would probably just look and say "ah.. ok".
 - 📫 <strong>Contact me: </strong> ⬇️
