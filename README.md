@@ -1,32 +1,27 @@
-### 👋 "Aoooba", my name is Sidarta Kauã and here you can find some information about me:
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:112a3b,50:1e3a5f,100:2c5282&height=180&section=header"
+  alt="Header"
+/>
 
-- 🔭 I’m Full-stack Developer, and currently working on Innovation serviços digitais
-- 🌱 I’m currently learning Computer Science
-- 📫 How to reach me: ssidartaaoli@gmail.com or https://www.linkedin.com/in/ssidartaa/.
-- ⚡ Curious fact: I'm very calm, so calm that if something bad happened to me, I would probably just look and say "ah.. ok".
-- 📫 <strong>Contact me: </strong> ⬇️
+<h1 align="center">Hi, I'm Sid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-</div>
-  <a href="https://www.linkedin.com/in/ssidartaa/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-  <a href="https://www.instagram.com/yssidartaa/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-</div>
+- I'm currently developing at **[SENOGRAFIA DESENVOLVIMENTO E SOLUÇÕES](https://senografia.com.br/)**.
+- Focused on increasing my open-source collaboration and GitHub contributions.
+- I've worked as a full-stack and mobile developer on a wide range of projects, including e-commerce platforms, educational tools, web games, sales automation tools, internal management systems, and AI-powered chatbots.
+- You can learn more about my journey as a software engineer on my [website]()  
 
-##
 
-<div align="center">
-  <a href="https://github.com/ssidartaa">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ssidartaa&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssidartaa&layout=compact&langs_count=7&theme=shades-of-purple"/>
-</div>
+  <div align="center" >
+	<a href="https://skillicons.dev" align="center">
+	  <img src="https://skillicons.dev/icons?i=git,github,gitlab,typescript,nodejs,python,react,nextjs,graphql,tailwind,sass,fastapi,django,express,nest,vue,docker,figma,jest,linux,postman,vercel,vite,bootstrap,mongodb,postgres,aws,gcp,vercel,githubactions" />
+	</a>
+  	
+  	<br />
+  </div>
 
-##
-	
-<div>
-	
-  ![Snake animation](https://github.com/ssidartaa/ssidartaa/blob/output/github-contribution-grid-snake.svg)
-	
-</div>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5282,50:1e3a5f,100:112a3b&height=180&section=footer"
+  alt="Footer"
+/>
