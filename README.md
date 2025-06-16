@@ -11,6 +11,7 @@
 - I've worked as a full-stack and mobile developer on a wide range of projects, including e-commerce platforms, educational tools, web games, sales automation tools, internal management systems, and AI-powered chatbots.
 - You can learn more about my journey as a software engineer on my [website]()  
 
+   <br />
 
   <div align="center">
 	<a href="https://skillicons.dev" align="center">
