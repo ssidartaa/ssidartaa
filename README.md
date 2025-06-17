@@ -26,7 +26,3 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:5a189a,50:3c096c,100:240046&height=180&section=footer"
   alt="Footer"
 />
-
-<br/>
-
-![Snake animation](https://github.com/ssidartaa/ssidartaa/blob/output/github-contribution-grid-snake.svg)
