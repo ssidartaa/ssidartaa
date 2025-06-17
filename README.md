@@ -1,6 +1,6 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:112a3b,50:1e3a5f,100:2c5282&height=180&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:3c096c,100:5a189a&height=180&section=header"
   alt="Header"
 />
 
@@ -23,6 +23,6 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5282,50:1e3a5f,100:112a3b&height=180&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:5a189a,50:3c096c,100:240046&height=180&section=footer"
   alt="Footer"
 />
