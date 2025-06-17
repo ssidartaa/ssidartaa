@@ -18,7 +18,7 @@
 	  <img src="https://skillicons.dev/icons?theme=dark&perline=16&i=aws,bash,bootstrap,cs,css,django,docker,express,fastapi,figma,firebase,flask,gcp,git,github,githubactions,heroku,html,jest,js,linux,materialui,md,mongodb,mysql,nestjs,nextjs,nodejs,notion,npm,php,postgres,postman,powershell,prisma,py,react,regex,sass,sqlite,styledcomponents,tailwind,ts,vercel,vite,vscode,windows,yarn"/>
 	</a>
   	
-  	<br />
+  	<br/>
   </div>
 
 <img
@@ -26,3 +26,7 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:5a189a,50:3c096c,100:240046&height=180&section=footer"
   alt="Footer"
 />
+
+<br/>
+
+![Snake animation](https://github.com/ssidartaa/ssidartaa/blob/output/github-contribution-grid-snake.svg)
