@@ -9,7 +9,7 @@
 - I'm currently developing at **[SENOGRAFIA DESENVOLVIMENTO E SOLUÇÕES](https://senografia.com.br/)**.
 - Focused on learning new languages and increasing my knowledge of the ones I already master.
 - I've worked as a full-stack and mobile developer on a wide range of projects, including e-commerce platforms, educational tools, web games, sales automation tools, internal management systems, and AI-powered chatbots.
-- You can learn more about my journey as a software engineer on my [website]().
+- You can learn more about my journey as a software engineer on my [website](https://github.com/ssidartaa).
 
    <br />
 
